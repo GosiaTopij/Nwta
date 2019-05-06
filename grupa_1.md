@@ -16,7 +16,7 @@
 
 [29.04.2019] *Systemy CI*[KD]
 
-[] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD) [MT]
+[06.05.2019] *Generatory dokumentacji: np. javadoc, doxygen. [MT]
 
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.* [JK]
 
